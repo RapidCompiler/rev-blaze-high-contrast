@@ -1,0 +1,21 @@
+{
+    "name": "revver-d-eye",
+    "displayName": "Revver D-Eye",
+    "description": "A Visual Studio Code colour theme for developers with Deuteranopia",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.62.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Revver D-Eye",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Revver D-Eye-color-theme.json"
+            }
+        ]
+    }
+}
