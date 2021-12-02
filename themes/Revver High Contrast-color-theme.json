@@ -2,9 +2,11 @@
 	"name": "Revver D-Eye",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#110000",
+		// "editor.background": "#000a22",
+		"editor.background": "#000000",
+		// "editor.background": "#110000",
 		// possibly change background to #0b0b0b
-		"editor.foreground": "#f7f200",
+		"editor.foreground": "#ceca00",
 		"activityBarBadge.foreground": "#ffffff",
 		"activityBarBadge.background": "#0b0b0b",
 		// "activityBarBadge.background": "#007acc",
@@ -18,8 +20,9 @@
 				"punctuation.definition.comment"
 			],
 			"settings": {
-				"fontStyle": "italic underline",
-				"foreground": "#ff5f5f"
+				"fontStyle": "italic underline bold",
+				// "foreground": "#ff5f5f"
+				"foreground": "#ff0000"
 			}
 		},
 		{
@@ -29,7 +32,7 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#EEFFFF"
+				"foreground": "#3cffff"
 			}
 		},
 		{
@@ -103,7 +106,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#82AAFF"
+				"foreground": "#fa7101"
 			}
 		},
 		{
@@ -112,7 +115,7 @@
 				"meta.block variable.other"
 			],
 			"settings": {
-				"foreground": "#f07178"
+				"foreground": "#f66696"
 			}
 		},
 		{
@@ -138,7 +141,7 @@
 				"keyword.other"
 			],
 			"settings": {
-				"foreground": "#F78C6C"
+				"foreground": "#fd61f0"
 			}
 		},
 		{
@@ -153,7 +156,7 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#C3E88D"
+				"foreground": "#d6d6d6"
 			}
 		},
 		{
@@ -169,7 +172,7 @@
 				"support.type.sys-types"
 			],
 			"settings": {
-				"foreground": "#FFCB6B"
+				"foreground": "#f07178"
 			}
 		},
 		{
@@ -178,7 +181,7 @@
 				"support.type"
 			],
 			"settings": {
-				"foreground": "#B2CCD6"
+				"foreground": "#ff3758"
 			}
 		},
 		{
@@ -192,7 +195,7 @@
 				"source.postcss support.type.property-name"
 			],
 			"settings": {
-				"foreground": "#B2CCD6"
+				"foreground": "#17fb9c"
 			}
 		},
 		{
@@ -213,7 +216,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#FF5370"
+				"foreground": "#ff3758"
 			}
 		},
 		{

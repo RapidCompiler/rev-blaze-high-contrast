@@ -1,7 +1,7 @@
 {
-    "name": "revver-d-eye",
-    "displayName": "Revver D-Eye",
-    "description": "A Visual Studio Code colour theme for developers with Deuteranopia",
+    "name": "revver-high-contrast",
+    "displayName": "Revver High Contrast",
+    "description": "A High Contrast Visual Studio Code colour theme for developers with Deuteranopia",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.62.0"
@@ -12,9 +12,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "Revver D-Eye",
+                "label": "Revver High Contrast",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Revver D-Eye-color-theme.json"
+                "path": "./themes/Revver High Contrast-color-theme.json"
             }
         ]
     }
