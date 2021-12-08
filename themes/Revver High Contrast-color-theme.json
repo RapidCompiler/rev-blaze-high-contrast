@@ -3,8 +3,8 @@
 	"type": "dark",
 	"colors": {
 		// "editor.background": "#000a22",
-		"editor.background": "#000000",
-		// "editor.background": "#110000",
+		// "editor.background": "#000000",
+		"editor.background": "#110000",
 		// possibly change background to #0b0b0b
 		"editor.foreground": "#ceca00",
 		"activityBarBadge.foreground": "#ffffff",
@@ -20,7 +20,7 @@
 				"punctuation.definition.comment"
 			],
 			"settings": {
-				"fontStyle": "italic underline bold",
+				"fontStyle": "italic underline",
 				// "foreground": "#ff5f5f"
 				"foreground": "#ff0000"
 			}
@@ -245,7 +245,7 @@
 				"entity.other.attribute-name"
 			],
 			"settings": {
-				"foreground": "#C792EA"
+				"foreground": "#9900ff"
 			}
 		},
 		{
@@ -265,7 +265,7 @@
 				"entity.other.attribute-name.class"
 			],
 			"settings": {
-				"foreground": "#FFCB6B"
+				"foreground": "#ffa600"
 			}
 		},
 		{
@@ -283,7 +283,7 @@
 				"markup.inserted"
 			],
 			"settings": {
-				"foreground": "#C3E88D"
+				"foreground": "#8de8cd"
 			}
 		},
 		{
@@ -310,7 +310,7 @@
 				"string.regexp"
 			],
 			"settings": {
-				"foreground": "#89DDFF"
+				"foreground": "#73a4fd"
 			}
 		},
 		{
@@ -319,7 +319,7 @@
 				"constant.character.escape"
 			],
 			"settings": {
-				"foreground": "#89DDFF"
+				"foreground": "#00fdb1"
 			}
 		},
 		{
@@ -360,7 +360,7 @@
 				"source.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#C792EA"
+				"foreground": "#bc57ff"
 			}
 		},
 		{
@@ -369,7 +369,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#FFCB6B"
+				"foreground": "#a1ce00"
 			}
 		},
 		{
@@ -442,7 +442,7 @@
 				"punctuation.definition.list_item.markdown"
 			],
 			"settings": {
-				"foreground": "#EEFFFF"
+				"foreground": "#00ffff"
 			}
 		},
 		{
@@ -520,6 +520,7 @@
 				"foreground": "#F78C6C"
 			}
 		},
+		// YOU STOPPED HERE
 		{
 			"name": "Markdown - Blockquote",
 			"scope": [
