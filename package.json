@@ -1,6 +1,6 @@
 {
-    "name": "revver-high-contrast",
-    "displayName": "Revver High Contrast",
+    "name": "rev-blaze-high-contrast",
+    "displayName": "Rev Blaze High Contrast",
     "description": "A High Contrast Visual Studio Code colour theme for developers with Deuteranopia",
     "version": "0.0.1",
     "engines": {
@@ -12,9 +12,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "Revver High Contrast",
+                "label": "Rev Blaze High Contrast",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Revver High Contrast-color-theme.json"
+                "path": "./themes/Rev Blaze High Contrast-color-theme.json"
             }
         ]
     }

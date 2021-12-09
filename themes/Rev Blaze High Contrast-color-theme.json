@@ -12,7 +12,9 @@
 		// "activityBarBadge.background": "#007acc",
 		"sideBarTitle.foreground": "#21e607",
 		"titleBar.activeBackground": "#110000",
-		"titleBar.border": "#ffffff"		
+		"titleBar.border": "#ffffff",
+		"activityBar.activeBorder": "#21e607",
+		"activityBar.background": "#ff0000"
 		
 	},
 	"tokenColors": [
