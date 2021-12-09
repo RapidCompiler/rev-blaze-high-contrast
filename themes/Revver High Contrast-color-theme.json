@@ -10,7 +10,10 @@
 		"activityBarBadge.foreground": "#ffffff",
 		"activityBarBadge.background": "#0b0b0b",
 		// "activityBarBadge.background": "#007acc",
-		"sideBarTitle.foreground": "#21e607"
+		"sideBarTitle.foreground": "#21e607",
+		"titleBar.activeBackground": "#110000",
+		"titleBar.border": "#ffffff"		
+		
 	},
 	"tokenColors": [
 		{
@@ -471,7 +474,7 @@
 				"markup.heading.markdown punctuation.definition.heading.markdown"
 			],
 			"settings": {
-				"foreground": "#C3E88D"
+				"foreground": "#99ff00"
 			}
 		},
 		{
@@ -492,7 +495,7 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#f07178"
+				"foreground": "#ff00ea"
 			}
 		},
 		{
@@ -520,7 +523,6 @@
 				"foreground": "#F78C6C"
 			}
 		},
-		// YOU STOPPED HERE
 		{
 			"name": "Markdown - Blockquote",
 			"scope": [
@@ -536,7 +538,8 @@
 				"markup.quote"
 			],
 			"settings": {
-				"fontStyle": "italic"
+				"fontStyle": "italic",
+				"foreground": "#ffffff"
 			}
 		},
 		{
@@ -545,7 +548,7 @@
 				"string.other.link.title.markdown"
 			],
 			"settings": {
-				"foreground": "#82AAFF"
+				"foreground": "#99ff00"
 			}
 		},
 		{
@@ -554,7 +557,7 @@
 				"string.other.link.description.title.markdown"
 			],
 			"settings": {
-				"foreground": "#C792EA"
+				"foreground": "#ff59ba"
 			}
 		},
 		{
@@ -572,7 +575,7 @@
 				"markup.raw.block"
 			],
 			"settings": {
-				"foreground": "#C792EA"
+				"foreground": "#ff5522"
 			}
 		},
 		{
