@@ -32,11 +32,11 @@
 		"breadcrumb.foreground": "#ffffff",
 		"breadcrumbPicker.background": "#424651",
 		"button.background": "#bb0000",
-		"button.border": "#ffffff",
+		"button.border": "#21e607",
+		"button.foreground": "#ffffff",
 		"debugConsole.infoForeground": "#ff0000",
 		"debugIcon.pauseForeground": "#ff0000",
 		"debugConsole.errorForeground": "#ff0000",
-		"button.foreground": "#ffffff",
 		"contrastBorder":"#21e607",
 		"contrastActiveBorder": "#21e607",
 		"dropdown.background": "#052b00ec",
@@ -44,13 +44,29 @@
 		"dropdown.border": "#ffffff",
 		"editor.findMatchBackground": "#16bd0080",
 		"editor.findMatchBorder": "#ffffff",
-		"editor.background": "#310000",
+		"editor.background": "#290000",
 		"editor.foreground": "#ceca00",
 		"editor.findMatchHighlightBackground": "#0059ff91",
 		"editor.findMatchHighlightBorder": "#ffffff",
 		"editor.selectionBackground": "#16bd0080",
+		
+		
 		"terminal.tab.activeBorder": "#ffffff",
-		"terminal.border": "#21e607"
+		"terminal.background": "#100000",
+		"terminal.foreground": "#ffffff",
+		"terminal.border": "#21e607",
+		"terminal.ansiBlack": "#ffffff",
+		"terminal.ansiBlue": "#00ffff",
+		"terminal.ansiCyan": "#00ffff",
+		"terminal.ansiBrightRed": "#ff0000",
+		"terminal.selectionBackground": "#16bd0080",
+		"terminal.ansiBrightBlack": "#ffffff",
+		"terminalCursor.background": "#ff0000",
+		"terminalCursor.foreground": "#21e607",
+
+		"sideBar.background": "#350000",
+		"sideBarSectionHeader.border": "#ff0000",
+		"gitlens.decorations.branchMissingUpstreamForegroundColor": "#ff0000",
 	},
 	"tokenColors": [
 		{
@@ -212,7 +228,7 @@
 				"support.type.sys-types"
 			],
 			"settings": {
-				"foreground": "#f07178"
+				"foreground": "#fa7101"
 			}
 		},
 		{
