@@ -9,7 +9,7 @@
 		"activityBarBadge.background": "#21e607",
 		// "activityBarBadge.background": "#007acc",
 		"sideBarTitle.foreground": "#21e607",
-		"titleBar.activeBackground": "#110000",
+		"titleBar.activeBackground": "#290000",
 		"titleBar.border": "#21e607",
 		
 		// "activityBar.activeBackground": "#bb0000",
@@ -27,10 +27,10 @@
 		"banner.foreground": "#ffffff",
 		"banner.iconForeground": "#ffffff",
 		"breadcrumb.activeSelectionForeground": "#21e607",
-		"breadcrumb.background": "#bb0000",
+		"breadcrumb.background": "#500000",
 		"breadcrumb.focusForeground": "#ffffff",
 		"breadcrumb.foreground": "#ffffff",
-		"breadcrumbPicker.background": "#424651",
+		"breadcrumbPicker.background": "#500000",
 		"button.background": "#bb0000",
 		"button.border": "#21e607",
 		"button.foreground": "#ffffff",
@@ -46,14 +46,39 @@
 		"editor.findMatchBorder": "#ffffff",
 		"editor.background": "#290000",
 		"editor.foreground": "#ceca00",
-		"editor.findMatchHighlightBackground": "#0059ff91",
-		"editor.findMatchHighlightBorder": "#ffffff",
+		"editor.findMatchHighlightBackground": "#4686fd91",
+		// "editor.findMatchHighlightBorder": "#ffffff",
 		"editor.selectionBackground": "#16bd0080",
-		
-		
-		"terminal.tab.activeBorder": "#ffffff",
-		"terminal.background": "#100000",
-		"terminal.foreground": "#ffffff",
+		"editorLineNumber.foreground": "#16bd00",
+		"editorLineNumber.activeForeground": "#fd61f0",
+		"editor.findRangeHighlightBackground": "#16bd0080",
+		"editor.findRangeHighlightBorder": "#ffffff",
+		"editor.symbolHighlightBackground": "#ff0000",
+		"editorBracketHighlight.foreground1": "#21e607",
+		"editorBracketHighlight.foreground2": "#13ffff",
+		"editorBracketHighlight.foreground3": "#fd61f0",
+		"editorBracketHighlight.foreground4": "#ceca00",
+		"editorBracketHighlight.foreground5": "#73a4fd",
+		"editorBracketHighlight.foreground6": "#ff5522",
+
+		"editorBracketHighlight.unexpectedBracket.foreground": "#ff0000",
+		"editorBracketPairGuide.activeBackground1": "#21e607",
+		"editorBracketPairGuide.activeBackground2": "#13ffff",
+		"editorBracketPairGuide.activeBackground3": "#fd61f0",
+		"editorBracketPairGuide.activeBackground4": "#ceca00",
+		"editorBracketPairGuide.activeBackground5": "#73a4fd",
+		"editorBracketPairGuide.activeBackground6": "#ff5522",
+
+
+
+		"terminal.tab.activeBorder": "#ffffff00",
+		"terminal.dropBackground": "#16bd0080",
+
+		// Check terminal colour in PC
+		"terminal.background": "#16bd0080",
+		"terminal.foreground": "#21e607",
+
+
 		"terminal.border": "#21e607",
 		"terminal.ansiBlack": "#ffffff",
 		"terminal.ansiBlue": "#00ffff",
@@ -64,9 +89,8 @@
 		"terminalCursor.background": "#ff0000",
 		"terminalCursor.foreground": "#21e607",
 
-		"sideBar.background": "#350000",
+		"sideBar.background": "#500000",
 		"sideBarSectionHeader.border": "#ff0000",
-		"gitlens.decorations.branchMissingUpstreamForegroundColor": "#ff0000",
 	},
 	"tokenColors": [
 		{

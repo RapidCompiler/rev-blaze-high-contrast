@@ -10,4 +10,11 @@ You can author your README using Visual Studio Code.  Here are some useful edito
 * [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
 * [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
 
+### Here is a list of the attributes that are left unchanged in colour
+* ActivityBar active background
+* Button hover and secondary colours
+* Charts
+* Checkbox
+* Editor word and symbol highlight background
+
 **Enjoy!**
