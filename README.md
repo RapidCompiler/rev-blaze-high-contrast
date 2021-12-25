@@ -15,5 +15,5 @@ Contact me through
 * Email @ revmatcher@sanjaysuresh.com
 * My website [sanjaysuresh.com](https://sanjaysuresh.com)
 
-### Version 1.1
+### Version 1.2
 **Don't follow the path. Blaze the trail!**

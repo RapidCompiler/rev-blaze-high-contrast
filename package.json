@@ -17,5 +17,7 @@
                 "path": "./themes/Rev Blaze High Contrast-color-theme.json"
             }
         ]
-    }
+    },
+    "repository": "https://github.com/rapidcompiler/rev-blaze-high-contrast",
+    "publisher": "Revmatcher"
 }
