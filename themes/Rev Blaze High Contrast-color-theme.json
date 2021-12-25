@@ -5,7 +5,6 @@
 
 		"activityBarBadge.foreground": "#000000",
 		"activityBarBadge.background": "#21e607",
-		"sideBarTitle.foreground": "#21e607",
 
 		"titleBar.activeBackground": "#290000",
 		"titleBar.border": "#21e607",
@@ -115,6 +114,7 @@
 
 		"sideBar.background": "#500000",
 		"sideBarSectionHeader.border": "#21e607",
+		"sideBarTitle.foreground": "#21e607",
 
 		"input.background": "#290000",
 		"inputOption.activeBackground": "#16bd0080",
@@ -131,7 +131,10 @@
 		"menubar.selectionForeground": "#ffffff",
 
 		"panel.border": "#21e607",
-		"panelTitle.activeBorder": "#ff000000"
+		"panelTitle.activeBorder": "#ff000000",
+
+		"statusBar.background": "#052b00ec",
+		"statusBar.foreground": "#21e607"
 	},
 	"tokenColors": [
 		{
