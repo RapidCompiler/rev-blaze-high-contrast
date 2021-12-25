@@ -1,20 +1,21 @@
-# README
-## This is the README for your extension "Rev Blaze High Contrast"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Rev Blaze High Contrast
+## A high contrast colour theme for Visual Studio Code
+<br>
+Rev Blaze is a Visual Studio Code colour theme in high contrast that has been consciously developed to aid developers with Deuteranopia colour vision deficiency.
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+<br>
+Constant inputs from the visually impaired were taken into account during the development of this colour theme extension.
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+<br>
+<center><img src="https://github.com/rapidcompiler/rev-blaze-high-contrast/blob/master/readme-image.png" alt="Rev Blaze High Contrast" /></center>
+<center>Rev Blaze High Contrast uses the colours Maroon and Lime to offer a superior programming experience.
+</center>
+<br>
 
-### Here is a list of the attributes that are left unchanged in colour
-* ActivityBar active background
-* Button hover and secondary colours
-* Charts
-* Checkbox
-* Editor word and symbol highlight background
+### Have something to report?
+Contact me by
+* Email @ revmatcher@sanjaysuresh.com
+* My website [sanjaysuresh.com](https://sanjaysuresh.com)
 
-**Enjoy!**
+### Version 1.1
+**Don't follow the path. Blaze the trail!**
