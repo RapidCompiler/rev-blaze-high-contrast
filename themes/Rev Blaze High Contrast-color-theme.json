@@ -75,7 +75,7 @@
 		"terminal.dropBackground": "#16bd0080",
 
 		// Check terminal colour in PC
-		"terminal.background": "#16bd0080",
+		"terminal.background": "#500000",
 		"terminal.foreground": "#21e607",
 
 
@@ -90,7 +90,7 @@
 		"terminalCursor.foreground": "#21e607",
 
 		"sideBar.background": "#500000",
-		"sideBarSectionHeader.border": "#ff0000",
+		"sideBarSectionHeader.border": "#21e607",
 	},
 	"tokenColors": [
 		{
