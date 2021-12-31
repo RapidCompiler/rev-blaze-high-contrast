@@ -1,8 +1,9 @@
 {
     "name": "rev-blaze-high-contrast",
     "displayName": "Rev Blaze High Contrast",
-    "description": "A High Contrast Visual Studio Code colour theme for developers with Deuteranopia",
-    "version": "0.0.1",
+    "description": "A high contrast colour theme for VS Code to aid developers with Deuteranopia colour blindness",
+    "icon": "images/version-0.0.2.png",
+    "version": "0.0.2",
     "engines": {
         "vscode": "^1.62.0"
     },
@@ -19,5 +20,5 @@
         ]
     },
     "repository": "https://github.com/rapidcompiler/rev-blaze-high-contrast",
-    "publisher": "Revmatcher"
+    "publisher": "revmatcher01"
 }
